@@ -1,4 +1,4 @@
 .idea/
-app/**/*.js
 *.txt
-!user/*.txt
+!app/mix/user/*.txt
+app/**/*.js
